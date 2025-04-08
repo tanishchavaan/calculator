@@ -30,3 +30,4 @@ This project is perfect for beginners trying to practice logic building and get 
 
 ---
 
+![image](https://github.com/user-attachments/assets/41f43c01-6ed4-4406-b34d-a6b74ba37117)
